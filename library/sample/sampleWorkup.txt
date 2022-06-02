@@ -1,0 +1,121 @@
+savedVersionType none
+version 2.0
+slicetype orthogonal
+niiCtr 2
+niiNum 1
+elecCtr 2
+elecNum 1
+axialview 0
+coronalview 1
+sagittalview 0
+frameType luminant
+frameacx 
+frameacy 
+frameacz 
+framepcx 
+framepcy 
+framepcz 
+voiContact 2
+referencespace acpc
+useOffset 0
+offset 15
+setCtr 0
+displayTracksAsTubes 0
+heatMapCtr 0
+scalarBarView 0
+file1 "/Users/angelanoecker/Documents/StimVision/StimVisionDrivingForce/library/sample/CIT168_T1w_700um.nii"
+window1 4.7
+level1 1.0
+opacity1 100
+xslice1 85
+yslice1 128
+zslice1 94
+file2 "/Users/angelanoecker/Documents/StimVision/StimVisionDrivingForce/library/sample/CIT168_T2w_700um.nii"
+window2 7.1
+level2 1.0
+opacity2 100
+xslice2 98
+yslice2 130
+zslice2 105
+acpcEstablished 1
+align_mat_0 "0.999962 0.00100283 -0.00866872 -0.452699"
+align_mat_1 "0.0 0.993375 0.114917 4.92761"
+align_mat_2 "0.00872654 -0.114912 0.993337 -5.42016"
+align_mat_3 "0.0 0.0 0.0 1.0"
+alignxslice 100
+alignyslice 131
+alignzslice 99
+orientacy 12.755
+orientpcy -12.755
+cameraaxialParallelScale 58.7094
+camerasagittalParallelScale 68.9865
+camera3ParallelScale 76.4867
+camera4ParallelScale 76.4867
+overlapView 0
+caudate_Lview 0
+GPi_Lview 0
+GPe_Lview 0
+putamen_Lview 0
+RN_Lview 0
+SNc_Lview 0
+SNr_Lview 0
+thalamus_Lview 1
+STN_Lview 1
+caudate_Rview 0
+GPi_Rview 0
+GPe_Rview 0
+putamen_Rview 0
+RN_Rview 0
+SNc_Rview 0
+SNr_Rview 0
+thalamus_Rview 1
+STN_Rview 1
+pallidothalamic_Lview 0
+pallidothalamic_Rview 0
+cerebellothalamic_Lview 0
+cerebellothalamic_Rview 0
+medial_lemniscus_Lview 0
+medial_lemniscus_Rview 0
+pallidosubthalamic_Lview 0
+pallidosubthalamic_Rview 0
+subthalamopallidal_Lview 0
+subthalamopallidal_Rview 0
+motorIC_Lview 0
+motorIC_Rview 0
+motorHDP_Lview 0
+motorHDP_Rview 0
+prefrontalIC_Lview 0
+prefrontalIC_Rview 0
+prefrontalHDP_Lview 0
+prefrontalHDP_Rview 0
+electrode1list {contact2b 0 contact2c 0 framex -9 framey -2.9 framez -4.6 contact3a 0 contact3b 0 contact3c 0 current 3.0 vtaView 0 target STN cathode0 0 cathode1 0 voltage 2.0 cathode2 1 cathode3 0 cathode4 0 current1 0 cathode5 0 current2 3.0 cathode6 0 current3 0 impedance ~1000 arc 14.2 cathode7 0 current4 0 cathode8 0 current5 0 rotation 0 current6 0 pulsewidth 60 current7 0 current8 0 contact 2 side left fiberdia 5.7 anodeIPG 1 crwarcside left ring 63.9 control current c0 0 c1 0 contact0 0 c2 -1 depth 0 contact1 0 c3 0 contact2 1 c4 0 anode0 0 contact3 0 c5 0 anode1 0 contact4 0 c6 0 anode2 0 contact5 0 c7 0 type BSN anode3 0 contact6 0 anode4 0 c8 0 contact7 0 anode5 0 contact8 0 anode6 0 anode7 0 anode8 0 elecView 1 tissue gray headstagex 0 headstagey 0 contact2a 0}
+electrode2list {contact2b 0 contact2c 0 framex 8.4 framey -2.9 framez -4.7 contact3a 0 contact3b 0 contact3c 0 current 3.0 vtaView 0 target STN cathode0 0 cathode1 0 voltage 2.0 cathode2 1 cathode3 0 cathode4 0 current1 0 cathode5 0 current2 3.0 cathode6 0 current3 0 impedance ~1000 arc 15.0 cathode7 0 current4 0 cathode8 0 current5 0 rotation 0 current6 0 pulsewidth 60 current7 0 current8 0 contact 2 side left fiberdia 5.7 anodeIPG 1 crwarcside right ring 63.3 control current c0 0 c1 0 contact0 0 c2 -1 depth 0 contact1 0 c3 0 contact2 1 c4 0 anode0 0 contact3 0 c5 0 anode1 0 contact4 0 c6 0 anode2 0 contact5 0 c7 0 type BSN anode3 0 contact6 0 c8 0 anode4 0 contact7 0 anode5 0 contact8 0 anode6 0 anode7 0 anode8 0 elecView 1 tissue gray headstagex 0 headstagey 0 contact2a 0}
+siteData ""
+cameraPosition " -4.72051 239.799 8.83757"
+cameraFocalPoint " -1.42109e-14 3.77359 8.83757"
+cameraViewAngle "30.0"
+cameraViewUp " 0.0 0.0 1.0"
+leksellFrameRotationMat_0 "1.0 0.0 0.0 0.0"
+leksellFrameRotationMat_1 "0.0 1.0 0.0 0.0"
+leksellFrameRotationMat_2 "0.0 0.0 1.0 0.0"
+leksellFrameRotationMat_3 "0.0 0.0 0.0 1.0"
+leksellFrameTranslationMat_0 "1.0 0.0 0.0 0.0"
+leksellFrameTranslationMat_1 "0.0 1.0 0.0 0.0"
+leksellFrameTranslationMat_2 "0.0 0.0 1.0 0.0"
+leksellFrameTranslationMat_3 "0.0 0.0 0.0 1.0"
+crwFrameRotationMat_0 "1.0 0.0 0.0 0.0"
+crwFrameRotationMat_1 "0.0 1.0 0.0 0.0"
+crwFrameRotationMat_2 "0.0 0.0 1.0 0.0"
+crwFrameRotationMat_3 "0.0 0.0 0.0 1.0"
+crwFrameTranslationMat_0 "1.0 0.0 0.0 0.0"
+crwFrameTranslationMat_1 "0.0 1.0 0.0 0.0"
+crwFrameTranslationMat_2 "0.0 0.0 1.0 0.0"
+crwFrameTranslationMat_3 "0.0 0.0 0.0 1.0"
+luminantFrameRotationMat_0 "1.0 0.0 0.0 0.0"
+luminantFrameRotationMat_1 "0.0 1.0 0.0 0.0"
+luminantFrameRotationMat_2 "0.0 0.0 1.0 0.0"
+luminantFrameRotationMat_3 "0.0 0.0 0.0 1.0"
+luminantFrameTranslationMat_0 "1.0 0.0 0.0 0.0"
+luminantFrameTranslationMat_1 "0.0 1.0 0.0 0.0"
+luminantFrameTranslationMat_2 "0.0 0.0 1.0 0.0"
+luminantFrameTranslationMat_3 "0.0 0.0 0.0 1.0"
