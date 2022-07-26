@@ -9,7 +9,7 @@ SUPPORTED Mac OS:
 
 INSTALLATION:
 Download to the same folder:
-	StimVisionCIT168 Unix executable file
+	StimVisionCIT168 Unix executable file and 
 	Library folder
 
 
