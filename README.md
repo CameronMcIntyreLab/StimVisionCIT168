@@ -8,37 +8,16 @@ SUPPORTED Mac OS:
 
 
 INSTALLATION:
-<<<<<<< HEAD
-Download to the same folder:
-	StimVisionCIT168 Unix executable file and 
-	Library folder
-
-
-RUNNING THE SOFTWARE:
-Double click on the StimVisionCIT168 executable file
-	
-If the file doesn't present as a terminal icon, 
-	chmod +x <filename> 
-in terminal to make it be recognized as an executable
-	
-=======
 Download and mount the dmg.  Drag the StimVisionCIT168 icon into the Applications folder.
 
-
 RUNNING THE SOFTWARE:
->>>>>>> Updated volume conductor model and added DMG installer
 If you get a message saying it was blocked from opening because it is not from an identified developer go to Settings -> Security & Privacy -> and choose "Open Anyway"
 
 Every time the software is opened, the user must accept the terms in the disclaimer window at which point the user interface panels will become available.
 
-<<<<<<< HEAD
-It is best to use a large monitor, because small laptop screens can make it difficult to access the entire main UI panel.
-=======
 It is best to use a large monitor, because small laptop screens may make it difficult to access the entire main UI panel.
->>>>>>> Updated volume conductor model and added DMG installer
 
 It should take anwywhere from four to ten minutes to perform the driving force calculations for a given set of stimulation parameters.
-
 
 REFERENCES:
 Noecker AM, Frankemolle-Gilbert AM, Howell B, Petersen MV, Beylergil SB, Shaikh AG, McIntyre CC. StimVision v2: Examples and Applications in Subthalamic Deep Brain Stimulation for Parkinson's Disease. Neuromodulation. 2021 Feb;24(2):248-258.
