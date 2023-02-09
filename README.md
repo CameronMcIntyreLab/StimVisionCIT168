@@ -32,7 +32,6 @@ Howell B, Gunalan K, McIntyre CC. A Driving-Force Predictor for Estimating Pathw
 
 
 KNOWN ISSUES:
-The user may see warning messages about degenerate triangles in the mesh while performing the driving force calculations. Any affected streamlines are removed from the driving force calculations.
 
 
 BUG REPORTS AND INQURIES:
