@@ -17,7 +17,7 @@ Every time the software is opened, the user must accept the terms in the disclai
 
 It is best to use a large monitor, because small laptop screens may make it difficult to access the entire main UI panel.
 
-It should take anwywhere from four to ten minutes to perform the driving force calculations for a given set of stimulation parameters.
+It should take anwywhere from three to five minutes to perform the driving force calculations for a given set of stimulation parameters.
 
 REFERENCES:
 Noecker AM, Frankemolle-Gilbert AM, Howell B, Petersen MV, Beylergil SB, Shaikh AG, McIntyre CC. StimVision v2: Examples and Applications in Subthalamic Deep Brain Stimulation for Parkinson's Disease. Neuromodulation. 2021 Feb;24(2):248-258.
@@ -32,6 +32,7 @@ Howell B, Gunalan K, McIntyre CC. A Driving-Force Predictor for Estimating Pathw
 
 
 KNOWN ISSUES:
+Some combinations of electrode contacts are not available for driving force calculations.
 
 
 BUG REPORTS AND INQURIES:
